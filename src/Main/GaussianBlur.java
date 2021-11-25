@@ -7,8 +7,8 @@ import java.io.File;
 import java.io.IOException;
 
 /**
- @author QuariX
-  * @version 1.0
+ * @author QuariX
+ * @version 1.0
  * @since 17.0.1
  * @date 25.11.2021
  */
